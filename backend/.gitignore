@@ -1,0 +1,7 @@
+node_modules/
+.env
+db/ava.db
+db/ava.db-wal
+db/ava.db-shm
+uploads/*
+!uploads/.gitkeep
